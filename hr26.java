@@ -1,0 +1,21 @@
+//  Find Average of Numbers
+
+class hr26
+{
+ public static void main(String[] args)
+  {
+    int a=10, b=20, c=30;
+    int avg = (a+b+c)/3;
+
+   System.out.println("Average =" +avg);
+  }
+}
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+OUTPUT:
+
+Average =20
